@@ -8,6 +8,6 @@ This project requires Python 3 and the requests package.
 First, install pipenv.  Then:
 
 ```
-pipenv install 
-pipenv run find_meteors.py
+pipenv install
+pipenv run meteors/find_meteors.py
 ```
